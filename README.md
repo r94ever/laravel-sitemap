@@ -13,6 +13,7 @@ composer require r94ever/sitemap```
 
 | Laravel Version            | Sitemap Version |
 |----------------------------|-----------------|
+| 13.x                       | 10.x            |
 | 12.x                       | 9.x             |
 | 8.x \| 9.x \| 10.x \| 11.x | 8.x             |
 | 7.x                        | 7.x             |
